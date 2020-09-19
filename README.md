@@ -16,3 +16,5 @@ Site: https://maratona.dev/pt
   <li>Desafio 7 - TNT</li>
   <li>Desafio 8 - FCA</li>
 </ol>
+
+<hr />
